@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+h1, h2{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+.inicio{
+    height: 100px;
+}
+nav{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+footer
+{
+    background-color: #005677;
+    color: white
+}
+section
+{
+    text-align: center;
+}
+
